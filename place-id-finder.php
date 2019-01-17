@@ -128,7 +128,7 @@ include 'includes/config.php';
         });
       }
     </script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=<?php $api_key?>&libraries=places&callback=initMap"
+    <script src="https://maps.googleapis.com/maps/api/js?key=<?php $api_key ?>&libraries=places&callback=initMap"
         async defer></script>
 </body>
 </html>
